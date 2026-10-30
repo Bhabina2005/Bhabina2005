@@ -163,8 +163,9 @@ I am interested in opportunities where I can learn, collaborate, and contribute 
         <li><b>Result Processing & Calculation:</b> Implemented automated batch score evaluation, SGPA/CGPA computation, and grade threshold classifications.</li>
         <li><b>Analytics & Ranking:</b> Built subject-wise statistical reports, class rankings, score distribution graphs, and performance trajectory metrics.</li>
         <li><b>Prediction Engine:</b> Analyzes academic trends across semesters to forecast performance outcomes and assist educators in targeted academic support.</li>
+        <li><b>Integrated an Ollama-powered AI agent for intelligent academic queries and result analysis.</li>
       </ul>
-      <p><b>Technologies:</b> <code>Python</code> • <code>Flask</code> • <code>SQLite</code> • <code>MySQL</code> • <code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code></p>
+      <p><b>Technologies:</b> <code>Python</code> • <code>Flask</code> • <code>SQLite</code> • <code>MySQL</code> • <code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code> • <code>Ollama</code></p>
       <p>
         <img src="https://img.shields.io/badge/Status-Academic_Project_/_In_Development-4C1D95?style=flat-square&logo=gitbook&logoColor=C4B5FD" alt="Status" />
       </p>
