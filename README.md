@@ -1,140 +1,110 @@
-<div align="center">
+<div align="center">  <img src="assets/header.svg" alt="Bhabina Babu — Profile Header" width="100%" />  <p>
+    <img src="https://img.shields.io/badge/Software_Development-4C1D95?style=for-the-badge&logo=code&logoColor=C4B5FD" alt="Software Development" />
+    <img src="https://img.shields.io/badge/B.E._Information_Science-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=FFFFFF" alt="B.E. Information Science" />
+    <img src="https://img.shields.io/badge/CGPA-8.64%2F10-4C1D95?style=for-the-badge&logo=academia&logoColor=C4B5FD" alt="CGPA 8.64 out of 10" />
+  </p>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I'm+Bhabina+Babu;Aspiring+Software+Developer;Interested+in+Full+Stack+Development;Building+Practical+Software+Solutions" alt="Typing introduction" /></div>About Me
+I am a final-year Information Science and Engineering undergraduate at Gopalan College of Engineering and Management, Bengaluru. I enjoy developing practical software applications and exploring web technologies, backend development, and data-driven solutions.
 
-<img src="assets/header.svg" alt="Bhabina Babu — Aspiring Software Developer" width="100%" />
-
-<br/>
-
-<a href="https://github.com/Bhabina2005">
-  <img src="https://img.shields.io/badge/GitHub-Bhabina2005-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/bhabina-babu">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-**Aspiring Software Developer · Information Science & Engineering**
-
-*Building practical applications and learning through hands-on development.*
-
-</div>
-
----
-
-## About Me
-
-I'm a final-year Information Science and Engineering student at **Gopalan College of Engineering and Management, Bengaluru**. I enjoy developing software applications, exploring web technologies, and working with data.
-
-- 🎓 B.E. in Information Science and Engineering (2023–2027)
-- 📊 CGPA: **8.64 / 10**
-- 💻 Interested in software development, full-stack technologies and data analytics
-- 🌱 Currently strengthening my skills in Python, React, backend development and SQL
-
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| **Languages** | Python, JavaScript, SQL |
-| **Frontend** | HTML, CSS, React, Bootstrap, Tailwind CSS |
-| **Backend** | Flask, Node.js, Express.js |
-| **Databases** | MySQL, SQLite, PostgreSQL |
-| **Tools** | Git, GitHub, VS Code |
-| **Data & Analytics** | Pandas, Power BI |
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap,tailwind,flask,nodejs,express,mysql,sqlite,postgres,git,github,vscode&perline=8" alt="Technology icons" />
-</div>
-
-## Experience
-
-### Frontend Development Intern — Advanced Engineering Services (AES)
-*May 2026 – July 2026 · Tiruchirappalli*
-
+I am focused on strengthening my software development skills through hands-on projects, continuous learning, and collaboration.
+Education
+Gopalan College of Engineering and Management, Bengaluru
+B.E. in Information Science and Engineering | 2023–2027
+CGPA: 8.64 / 10 | Affiliation: Visvesvaraya Technological University (VTU)
+Internship Experience
+Frontend Development Intern — Advanced Engineering Services (AES), Tiruchirappalli
+May 2026 – July 2026
 - Contributed to the frontend development of an internal Management Information System (MIS).
-- Developed dashboard interfaces for performance metrics and status tracking.
-- Worked on modules including the Proposal Register, Review Sheet and Purchase Order (PO) Register.
-- Used React.js, JavaScript, Git and GitHub.
+- Developed interactive dashboard interfaces for performance metrics and status tracking.
+- Worked on enterprise modules including the Proposal Register, Review Sheet, and Purchase Order (PO) Register.
+- Used React.js and JavaScript to build responsive interfaces and collaborated through Git and GitHub workflows.
+Technologies: React.js · JavaScript · Git · GitHub
+Technical Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,bootstrap,tailwind,flask,nodejs,mysql,sqlite,postgres,git,github,vscode" alt="Technical skills" />
+</div>Category	Skills
+Programming	Python, JavaScript, SQL
+Frontend	HTML5, CSS3, React.js, Bootstrap, Tailwind CSS
+Backend	Flask, Node.js, Express.js
+Databases	MySQL, SQLite, PostgreSQL
+Tools	Git, GitHub, VS Code
 
-## Featured Projects
 
-### 1. Academic Result Analytics and Prediction System
-**Python · Flask · SQLite · JavaScript**
-
-A web-based system for analysing academic results and understanding student performance.
-
+Featured Projects
+1. Academic Result Analytics and Prediction System
+A web-based system for analysing academic results, calculating performance metrics, and exploring semester-wise trends.
 - Processes student result data and calculates SGPA/CGPA and grade classifications.
-- Generates subject-wise analytics, student rankings and performance visualizations.
-- Includes a Decision Tree-based approach for semester performance prediction.
-- **Status:** Academic project in development.
-
-### 2. DocuChat AI — Document Question Answering System
-**Python · Flask · MySQL · JavaScript · PyMuPDF · Tesseract OCR**
-
-A document question-answering application that lets users upload documents and ask questions about their content.
-
+- Generates subject-wise analytics, student rankings, and performance visualisations.
+- Includes a machine-learning-based approach to semester performance prediction.
+Technologies: Python · Flask · SQLite · JavaScript · HTML · CSS
+Status: Academic project — in development
+2. DocuChat AI — Document Question Answering System
+A document question-answering application that allows users to upload documents and ask questions about their content.
 - Extracts text from PDFs and scanned pages using PyMuPDF and Tesseract OCR.
-- Provides document-grounded answers with supporting references.
-- Uses MySQL for document information, chat history and session-related data.
-- **Status:** In development.
+- Produces document-grounded answers with supporting text references.
+- Uses MySQL to manage document information, chat history, and session-related data.
+Technologies: Python · Flask · MySQL · JavaScript · PyMuPDF · Tesseract OCR
+Status: In development
+3. PDF Toolkit
+A browser-based utility for merging PDF files and extracting selected pages.
+- Supports PDF merging and page-range-based splitting.
+- Processes files locally in the browser using pdf-lib; documents are not uploaded to an external server.
+- Provides a responsive interface with drag-and-drop file selection.
+Technologies: HTML5 · CSS3 · Bootstrap 5 · JavaScript · pdf-lib
 
-### 3. PDF Toolkit
-**HTML · CSS · Bootstrap · JavaScript · pdf-lib**
-
-A browser-based utility for working with PDF documents.
-
-- Supports PDF merging and splitting.
-- Processes files in the browser without uploading them to an external server.
-- Includes a responsive interface and drag-and-drop file selection.
-
-[Repository](https://github.com/Bhabina2005/pdf-toolkit) · [Live Demo](https://bhabina2005.github.io/pdf-toolkit/)
-
-### 4. Student ID Card Generator
-**HTML · CSS · JavaScript · LocalStorage**
-
-A web application for generating and managing student ID cards.
-
+GitHub Repository · Live Demo
+4. Student ID Card Generator
+A client-side web application for generating and managing student ID cards.
 - Generates ID cards using student details and uploaded profile images.
-- Includes form validation and browser-based data persistence.
-- Supports print-ready layouts and JSON data export.
+- Includes form validation and browser-based record persistence.
+- Supports print-ready card layouts and JSON data export.
+Technologies: HTML5 · CSS3 · JavaScript · LocalStorage · FileReader API
 
-[Repository](https://github.com/Bhabina2005/MultiStudent-ID-Card-Portal) · [Live Demo](https://bhabina2005.github.io/MultiStudent-ID-Card-Portal/)
+GitHub Repository · Live Demo
+Additional Projects
+Habinova — Mobile Habit Tracking Application
+A Flutter application for creating habits and tracking daily progress, with local data persistence.
 
-## Additional Projects
+Technologies: Flutter · Dart · Drift (SQLite) · Local Notifications
+<sub>Private repository</sub>
+Nexus Bank — Banking Management System
+A Python desktop application for core banking operations, account management, and transaction reporting.
 
-- **Nexus Bank System** — A Python desktop banking application with SQLite-based data management and transaction reporting.  
-  [Repository](https://github.com/Bhabina2005/Nexus-Bank-System)
-- **Habinova** — A Flutter-based habit-tracking application with local data persistence and notifications.  
-  *(Private project)*
+Technologies: Python · CustomTkinter · SQLite · ReportLab · OpenPyXL
 
-## Training & Learning
-
-- **Machine Learning for All** — University of London, Coursera *(coursework)*
-- **Web Development Training** — Gopalan College of Engineering and Management *(30 hours)*
-- **AI Tools Workshop** — be10x
-
-## GitHub Statistics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bhabina2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A1FF&icon_color=A78BFA&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhabina2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A1FF&text_color=E6EDF3" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhabina2005&hide_border=true&background=0D1117&ring=A78BFA&fire=C4A1FF&currStreakLabel=C4A1FF&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" />
-</div>
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhabina2005/Bhabina2005/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile!**
-
-*Always learning, building and improving.*
-
-<img src="assets/footer.svg" alt="Profile footer" width="100%" />
-
+GitHub Repository
+Certifications & Training
+- Machine Learning for All — University of London / Coursera
+- Web Development Training (30 Hours) — Gopalan College of Engineering and Management
+- AI Tools Workshop — be10x
+Currently Learning
+- Advanced Python and software design practices
+- React.js and modern frontend development
+- Backend development and REST API design
+- SQL and relational database management
+- Data analytics and exploratory data analysis
+GitHub Statistics
+<div align="center">  <a href="https://github.com/Bhabina2005">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Bhabina2005&show_icons=true&bg_color=0f0d1b&border_color=7c3aed&title_color=c4b5fd&text_color=ede9fe&icon_color=a78bfa&hide_border=false" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Bhabina2005">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhabina2005&layout=compact&bg_color=0f0d1b&border_color=7c3aed&title_color=c4b5fd&text_color=ede9fe&icon_color=a78bfa&hide_border=false" alt="Most used languages" />
+  </a>
+  <a href="https://github.com/Bhabina2005">
+    <img src="https://streak-stats.demolab.com/?user=Bhabina2005&background=0F0D1B&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=A78BFA" alt="GitHub contribution streak" />
+  </a></div>Contribution Activity
+<div align="center">  <a href="https://github.com/Bhabina2005">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhabina2005&theme=synthwave" alt="GitHub contribution summary" />
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhabina2005/Bhabina2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhabina2005/Bhabina2005/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Bhabina2005/Bhabina2005/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+  </picture></div>Connect
+<div align="center">  <a href="https://github.com/Bhabina2005">
+    <img src="https://img.shields.io/badge/GitHub-Bhabina2005-4C1D95?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub profile" />
+  </a>
+  <a href="https://linkedin.com/in/bhabina-babu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile" />
+  </a></div><div align="center">
+  <img src="assets/footer.svg" alt="Profile footer" width="100%" />
 </div>
