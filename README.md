@@ -234,25 +234,6 @@ I am interested in opportunities where I can learn, collaborate, and contribute 
 
 ## 💡 Additional Projects
 
-<table>
-  <tr>
-    <td>
-      <h3>🌱 Habinova – Mobile Habit Tracking Application</h3>
-      <p><i>A feature-rich cross-platform mobile application engineered to assist users in building consistent routines and tracking habit progress.</i></p>
-      <ul>
-        <li><b>Structured Routine Builder:</b> Supports customized habit cadences, category grouping, streak tracking, and daily interactive check-ins.</li>
-        <li><b>Local Persistence & Scheduling:</b> Built using clean feature-driven architecture backed by <code>Drift</code> (SQLite) with local push notification reminders.</li>
-        <li><b>Analytics & Gamification:</b> Provides weekly review summaries, completion rate charts, and achievement badges for habit milestones.</li>
-      </ul>
-      <p><b>Technologies:</b> <code>Flutter</code> • <code>Dart</code> • <code>Drift (SQLite)</code> • <code>Local Notifications</code></p>
-      <p>
-        <img src="https://img.shields.io/badge/Repository-Private_Repository-4C1D95?style=flat-square&logo=lock&logoColor=C4B5FD" alt="Private Repository" />
-        <img src="https://img.shields.io/badge/Status-Mobile_App-7C3AED?style=flat-square&logo=flutter&logoColor=FFFFFF" alt="Status" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <h3>🏦 Nexus Bank – Enterprise Banking Management System</h3>
       <p><i>A desktop financial management system engineered with ACID-compliant relational persistence and administrative reporting tools.</i></p>
       <ul>
