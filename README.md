@@ -233,7 +233,9 @@ I am interested in opportunities where I can learn, collaborate, and contribute 
 </p>
 
 ## 💡 Additional Projects
-
+<table>
+  <tr>
+    <td>
       <h3>🏦 Nexus Bank – Enterprise Banking Management System</h3>
       <p><i>A desktop financial management system engineered with ACID-compliant relational persistence and administrative reporting tools.</i></p>
       <ul>
